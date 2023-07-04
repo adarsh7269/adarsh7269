@@ -1,0 +1,10 @@
+Worked as a Backend developer, responsible for end-to-end architecture design, game development, in-app purchases, game life cycle, and all other related aspects of the game on the server for the company's online multiplayer games.
+
+Worked on scalable product and reduced loading time of game for users by 3-4 seconds (30%) in multiplayer card game which impacted 1 million + users.
+
+Implemented weekly Leaderboard in multiplayer card game poker(100K user base) game using redis.
+
+Optimised matchmaking logic by introducing dynamic queues that improved user engagement and retention.
+
+Reduced load from the database, achieved high concurrency with deadlock management.
+
